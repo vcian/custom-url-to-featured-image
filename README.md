@@ -1,4 +1,4 @@
-=== Add Featured Image Custom Link ===
+<h2 align="center"> Add Featured Image Custom Link </h2>
 
 <ul><li>Requires at least: 3.8</li>
 <li>Tested up to: 5.5.1</li>
