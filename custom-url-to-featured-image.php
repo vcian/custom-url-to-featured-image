@@ -6,6 +6,7 @@ Description: Featured Image Custom Link plugin is useful to add custom link to f
 Version: 1.1.0
 Author: Viitorcloud
 Author URI:https://viitorcloud.com/
+Text Domain: custom-url-to-featured-image
 */    
 
 /**
@@ -51,8 +52,8 @@ if( !defined( 'CUST_LI_FI_META_PREFIX' )) {
  * @package Custom Url to Featured Image
  * @since 1.1.0
  */
-load_plugin_textdomain( 'cust_li_fi', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
-
+//load_plugin_textdomain( 'cust_li_fi', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+load_plugin_textdomain( 'custom-url-to-featured-image', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 /**
  * Activation hook
  * 

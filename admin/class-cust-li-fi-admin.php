@@ -20,7 +20,7 @@ if ( !defined( 'ABSPATH' ) ) exit;
 	foreach ( $screens as $screen ) {
         add_meta_box(
             'custom_url_image',
-            __( 'Custom Url to Featured Image', 'cust_li_fi' ),
+            __( 'Custom Url to Featured Image', 'custom-url-to-featured-image' ),
             'cust_li_fi_meta_box_callback',// $callback
             $screen,
 			'side',// $context
