@@ -1,7 +1,7 @@
 <h2 align="center"> Add Featured Image Custom Link </h2>
 
 <ul><li>Requires at least: 3.8</li>
-<li>Tested up to: 5.5.1</li>
+<li>Tested up to: 5.8.1</li>
 <li>Requires PHP: 5.2.4</li>
 <li>Stable tag: 3.2.0 </li>
 <li>License: GPLv3</li>
@@ -27,7 +27,7 @@
 <ul>
 <li> Allow to add custom link to featured image of single post/page/products/custom post types which automatically displays in front.</li>
 <li> Compatible with Gutenberg editor and classic editor.</li>
-<li> Woo Commerce supported</li>
+<li> WooCommerce supported</li>
 <li> Please visit [Featured Image Custom Link Pro](https://viitorcloud.com/vcstore)  to buy.</li>
 </ul>
 					
